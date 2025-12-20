@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d0a0b91.css",
+    "main.js": "/static/js/main.43f94e63.js",
+    "static/js/453.fe5984aa.chunk.js": "/static/js/453.fe5984aa.chunk.js",
+    "static/media/marydiCandles.png": "/static/media/marydiCandles.c1ab8b830715785bbf50.png",
+    "static/media/my-portfolio.png": "/static/media/my-portfolio.8906842bed655a7cc215.png",
+    "static/media/front-end_part2.png": "/static/media/front-end_part2.06e971a3d619611a020b.png",
+    "static/media/front-end_part1.png": "/static/media/front-end_part1.a8c5186d5bf99ef9b93b.png",
+    "static/media/javascript.png": "/static/media/javascript.d8d8d3db924718be5373.png",
+    "static/media/me.jpeg": "/static/media/me.3062bff34917d8bd3965.jpeg",
+    "static/media/learnCSS.png": "/static/media/learnCSS.b4d8b666b6cebcf186c9.png",
+    "static/media/hlegal.png": "/static/media/hlegal.cd16ef3fd4919bcfa3b9.png",
+    "static/media/react_certificate.png": "/static/media/react_certificate.575c8337ec78f419a4c0.png",
+    "static/media/front-end_pro.png": "/static/media/front-end_pro.d153c45415b1659e69c2.png",
+    "static/media/Lexend-VariableFont_wght.woff2": "/static/media/Lexend-VariableFont_wght.f7880c7ffbe881cf2b91.woff2",
+    "static/media/dance.svg": "/static/media/dance.36f0d26c40e5d859a0441814cfb2d907.svg",
+    "static/media/travel.svg": "/static/media/travel.ace737de4abad81429785a71b62b487e.svg",
+    "static/media/coding.svg": "/static/media/coding.69d84e5efd4c1e11dc16606b86f458ac.svg",
+    "static/media/photography.svg": "/static/media/photography.422ffb8c3004ca08660fee34497a1b5a.svg",
+    "index.html": "/index.html",
+    "main.3d0a0b91.css.map": "/static/css/main.3d0a0b91.css.map",
+    "main.43f94e63.js.map": "/static/js/main.43f94e63.js.map",
+    "453.fe5984aa.chunk.js.map": "/static/js/453.fe5984aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d0a0b91.css",
+    "static/js/main.43f94e63.js"
+  ]
+}

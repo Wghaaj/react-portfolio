@@ -1,21 +1,33 @@
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
-import About from './components/about/About';
+
 import Home from './components/home/Home';
+import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
-import Certificates from './components/certificates/Certificates';
+import CertificatePage from './components/certficatePage/CertificatePage';
+import Cv from './components/cv/Cv';
 
 function App() {
   return (
-    <>
-      <Home />
-      <About />
-      <Skills />
-      <Certificates />
-      <Projects />
-      <Contact />
-    </>
+    <Routes>
+      <Route
+        path="/"
+        element={
+          <>
+            <Home />
+            <About />
+            <Skills />
+            <Projects />
+            <Contact />
+          </>
+        }
+      />
+
+      <Route path="/certificatePage" element={<CertificatePage />} />
+      <Route path="/cv" element={<Cv />} />
+    </Routes>
   );
 }
 

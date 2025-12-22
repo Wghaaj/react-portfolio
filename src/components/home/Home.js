@@ -1,6 +1,7 @@
 import me from '../../me.jpeg';
 import '../../App.css';
 import { useSectionVisibility } from '../../hooks/useSectionVisibility';
+import { Link } from 'react-router-dom';
 
 
 function Home() {
@@ -14,11 +15,15 @@ function Home() {
                     </div>
                     <div className='mt-[15px] md:mt-[30px]'>
                         <h1 className="text-2xl md:text-6xl font-bold text-center">Diana Kravchuk</h1>
-                        <h4 className="dev text-xl md:text-4xl mt-[15px] text-center">Frontend Developer</h4>
+                        <h4 className="dev text-xl md:text-4xl mt-[15px] text-center">Front End Developer</h4>
                     </div>
                     <div className='buttons-wrapper flex flex-col sm:flex-row gap-[15px] sm:gap-[30px] sm:justify-center mt-[20px]'>
-                        <button className='text-xs md:text-sm btn rounded-[15px] pt-[8px] pb-[8px] pr-[45px] pl-[45px] text-center'>CV</button>
-                        <button className='text-xs md:text-sm btn rounded-[15px] pt-[8px] pb-[8px] pr-[45px] pl-[45px] text-center'>CERTIFICATES</button>
+                         <Link to="/cv">
+                            <button className='text-xs md:text-sm btn rounded-[15px] pt-[8px] pb-[8px] pr-[45px] pl-[45px] text-center'>CV</button>
+                        </Link>
+                        <Link to="/certificatePage">
+                            <button className='text-xs md:text-sm btn rounded-[15px] pt-[8px] pb-[8px] pr-[45px] pl-[45px] text-center'>CERTIFICATES</button>
+                        </Link>
                     </div>
                 </div>
             </div>

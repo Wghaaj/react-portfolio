@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5c976470.css",
-    "main.js": "/react-portfolio/static/js/main.eb2df48c.js",
+    "main.css": "/react-portfolio/static/css/main.0ba6e485.css",
+    "main.js": "/react-portfolio/static/js/main.03cab1ce.js",
     "static/js/453.fe5984aa.chunk.js": "/react-portfolio/static/js/453.fe5984aa.chunk.js",
     "static/media/marydiCandles.png": "/react-portfolio/static/media/marydiCandles.c1ab8b830715785bbf50.png",
     "static/media/my-portfolio.png": "/react-portfolio/static/media/my-portfolio.8906842bed655a7cc215.png",
@@ -11,6 +11,7 @@
     "static/media/me.jpeg": "/react-portfolio/static/media/me.3062bff34917d8bd3965.jpeg",
     "static/media/learnCSS.png": "/react-portfolio/static/media/learnCSS.b4d8b666b6cebcf186c9.png",
     "static/media/hlegal.png": "/react-portfolio/static/media/hlegal.cd16ef3fd4919bcfa3b9.png",
+    "static/media/Diana Kravchuk CV.pdf": "/react-portfolio/static/media/Diana Kravchuk CV.324e0460c0b8fa34dcef.pdf",
     "static/media/react_certificate.png": "/react-portfolio/static/media/react_certificate.575c8337ec78f419a4c0.png",
     "static/media/front-end_pro.png": "/react-portfolio/static/media/front-end_pro.d153c45415b1659e69c2.png",
     "static/media/Lexend-VariableFont_wght.woff2": "/react-portfolio/static/media/Lexend-VariableFont_wght.f7880c7ffbe881cf2b91.woff2",
@@ -19,12 +20,12 @@
     "static/media/coding.svg": "/react-portfolio/static/media/coding.69d84e5efd4c1e11dc16606b86f458ac.svg",
     "static/media/photography.svg": "/react-portfolio/static/media/photography.422ffb8c3004ca08660fee34497a1b5a.svg",
     "index.html": "/react-portfolio/index.html",
-    "main.5c976470.css.map": "/react-portfolio/static/css/main.5c976470.css.map",
-    "main.eb2df48c.js.map": "/react-portfolio/static/js/main.eb2df48c.js.map",
+    "main.0ba6e485.css.map": "/react-portfolio/static/css/main.0ba6e485.css.map",
+    "main.03cab1ce.js.map": "/react-portfolio/static/js/main.03cab1ce.js.map",
     "453.fe5984aa.chunk.js.map": "/react-portfolio/static/js/453.fe5984aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c976470.css",
-    "static/js/main.eb2df48c.js"
+    "static/css/main.0ba6e485.css",
+    "static/js/main.03cab1ce.js"
   ]
 }

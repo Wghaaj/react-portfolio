@@ -39,7 +39,7 @@ function Certificates() {
         </div>
 
         <div className="grid grid-cols-4 max-w-3xl gap-4">
-          {[front1, front2, js, frontPro].map((img, i) => (
+          {[reactCert, front1, front2, js, frontPro].map((img, i) => (
             <img
               key={i}
               src={img}
